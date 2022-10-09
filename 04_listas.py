@@ -16,4 +16,4 @@ mi_otra_lista = [35, 1.77, "Samuel", 'Rubio']
 print(type(mi_list))
 print(mi_otra_lista[1])
 
-print(mi_otra_lista.count())
+print("hola")
