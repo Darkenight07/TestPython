@@ -1,9 +1,5 @@
 # Strings
 
-from msilib.schema import PublishComponent
-from re import A
-
-
 mi_string = "Mi String"
 mi_otro_string = 'Mi String'
 
