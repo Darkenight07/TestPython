@@ -176,4 +176,4 @@ else:
     print(puntos)
     puntos = puntos * -1
 
-print(f'Los puntos finales son {puntos}')
+print(f'Los puntos finales son {puntos}') 
