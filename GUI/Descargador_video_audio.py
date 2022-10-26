@@ -6,7 +6,7 @@ import pytube
 mywindow = tk.Tk() # Ejecutamos el GUI de tkinter
 mywindow.title ('Descargador de videos | Youtube') # Nombre de la ventana
 mywindow.geometry('500x400') # Dimensiones de la ventana
-mywindow.resizable(False,False) # De esta forma hacemos que no puedas estirar la ventana
+mywindow.resizable(False,False) # De esta forma hacemos que no puedas estirar la ventana 
 
 
 textlinkyoutube = Label(mywindow, text='Pegue aqui el enlace:')
