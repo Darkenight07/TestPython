@@ -1,4 +1,4 @@
-from tkinter import StringVar, ttk
+from tkinter import ttk
 import requests
 import tkinter as tk
 from tkinter import Label, Button, Entry, Image
