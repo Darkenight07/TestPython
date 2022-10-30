@@ -13,7 +13,7 @@ def FnSuma():
     txt3.delete(0,'end')
     txt3.insert(0,r)
 
-lb1 = Label(mywindow,text='Primer numero', bg='yellow')
+lb1 = Label(mywindow,text='Primer numero', bg='yellow') 
 lb1.place(x=10,y=10,width=100, height=30)
 txt1 = Entry(mywindow, bg='pink')
 txt1.place(x=120,y=10,width=100, height=30)
