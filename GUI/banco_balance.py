@@ -117,7 +117,7 @@ def iniciosesion():
     # Diccionario de usuarios con contraseña
     dic_usuarios = {
         'usuario': {'Samuel', 'admin', 'usuario', 'a'},
-        'contraseña': 1
+        'contraseña': 12345
     }
 
     def IniciarSesion():
